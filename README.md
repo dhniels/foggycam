@@ -50,7 +50,7 @@ Make sure you install the requirements for the project, by `cd`-ing in the folde
 pip install -r requirements.txt
 ```
 
-Run `python start.py` after you configured the settings above. Exit by pressing <kbd>Ctrl</kbd>+<kbd>C</kbd>.
+Run `python3 start.py` after you configured the settings above. Exit by pressing <kbd>Ctrl</kbd>+<kbd>C</kbd>.
 
 ## Disclaimer
 
